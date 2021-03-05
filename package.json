@@ -1,0 +1,14 @@
+{
+  "name": "cnw-token-contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chill-now-2021/cnw-token-contract.git",
+  "author": "innocentguy <yan.ntusc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.1"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.2.2"
+  }
+}
